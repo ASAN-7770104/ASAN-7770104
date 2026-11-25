@@ -1,5 +1,7 @@
 # Hi, I'm Assanali 👋
 
+**English** · [Русский](README.ru.md)
+
 Student at MNU, building web products from Kazakhstan.
 
 ## Projects
